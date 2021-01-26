@@ -1,0 +1,80 @@
+h2 {
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+#inicio {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#menu {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#nosotros {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#contacto {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#quiero-mi-pizza {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#columna-cabeza {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+.descripcion {
+    color: white;
+    background-color: black;
+}
+a {
+    text-decoration: none;
+
+}
+.bloque1 {
+    background-color: rgb(52, 128, 22);
+    
+    
+   
+
+}
