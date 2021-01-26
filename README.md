@@ -1,2 +1,61 @@
 # vivalapizza.github.io
 sitio web de viva la pizza
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Viva la Pizza</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+    </head>
+    <body>
+            <h1> <img src="vivalapizza.png" alt="Logo de Viva la Pizza" width= "250" > Viva la Pizza </h1>   
+            <a href="http://www.vivalapizzaba.com "> <h2 id="inicio"> Inicio</h2> </a>
+            <h2 id="menu"> Menú </h2>
+                <ul> 
+                    <li>Pizzas Veganas</li>
+                    <li>Pizzas Vegetarianas</li>
+                    <li>Pizzas Tradicionales</li>
+                    <table>
+                        <thead id="columna-cabeza">
+                            <tr>
+                                <th>Pizza</th>
+                                <th>Ingredientes</th>
+                                <th>Precio</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td> Pizza Margarita</td>
+                                <td> queso, salsa de tomate, albaca </td>
+                                <td> $4 dolares </td>
+                            </tr>
+                            
+                            <tr>
+                                <td> Especial de la casa</td>
+                                <td> base de avena, salsa de tomate, dos quesos, orégano </td>
+                                <td> $6 dolares </td>
+                            </tr>
+                             <tr>
+                                <td> Pizza Viva</td>
+                                <td> queso vegano, salsa de tomate, ananá </td>
+                                <td> $4 dolares </td>
+                            </tr>
+                            
+                            
+                        </tbody>
+                    </table>
+                </ul>
+            <p class="descripcion"> Nuestras pizzas son hechas con ingredientes de primera calidad. </p>
+            <h2 id="nosotros"> Nosotros</h2>
+            <p class="descripcion"> Somos amantes de la buena comida. Creemos que cada pizza es un acto de amor.</p>
+            <h2 id="contacto"> Contacto</h2>
+            <p> Whatsaap +5491140684999 <br> 
+                Facebook Viva la Pizza <br>
+                Instagram Viva la Pizza </p>
+
+            <a target="_blank" href="https://www.pedidosya.com.ar/"> <h2 id="quiero-mi-pizza"> Quiero mi pizza</h2></a>
+        
+    </body>
+</html>
